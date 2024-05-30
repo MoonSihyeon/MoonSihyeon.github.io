@@ -1,12 +1,12 @@
 # Site Info
-title:              "Jekyll Latex"
-description:        "A pretty good Jekyll theme"
+title:              "Sihyeon's blog"
+description:        "Weclome Sihyeon's blog"
 google_verify:      abc123 # Put your Google Verification here
 google_analytics:   UA-123
 
 # Author Info
-author_name:        "John Doe" # Your name here
-author_email:       john@doe.com # Your email here
+author_name:        "Sihyeon Moon" # Your name here
+author_email:       firstclassop@gmail.com # Your email here
 author_gravatar:    e98e5de03e97f8498caab87e85a43f9a # Your Gravatar md5 hash here for logo
 
 # Site Settings
